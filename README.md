@@ -1,5 +1,6 @@
-# servletapi
-
+# ServletApi
+Basic ServletApi with functionalities like singup login and session managment .
+MVC approach .
 This repository contains servlet jsp xml files to work as a web project.
 Database used is DerbyDB and server used is Apache Tomcat.
 
