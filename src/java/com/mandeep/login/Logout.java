@@ -1,4 +1,4 @@
-package com.telusko.login;
+package com.mandeep.login;
 
 import java.io.IOException;
 import javax.servlet.annotation.WebServlet;

@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package com.telusko.controller;
+package com.mandeep.controller;
 
 import java.sql.*;
 
