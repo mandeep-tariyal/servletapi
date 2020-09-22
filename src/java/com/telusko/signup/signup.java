@@ -4,8 +4,8 @@
  * and open the template in the editor.
  */
 
-package com.mandeep.signup;
-import com.mandeep.controller.UserDAO;
+package com.telusko.signup;
+import com.telusko.controller.UserDAO;
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.annotation.WebServlet;

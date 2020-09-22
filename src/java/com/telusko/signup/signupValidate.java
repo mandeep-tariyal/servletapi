@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package com.mandeep.signup;
+package com.telusko.signup;
 
 import java.io.IOException;
 import javax.servlet.annotation.WebServlet;
